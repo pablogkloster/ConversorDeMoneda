@@ -1,4 +1,2 @@
-package PACKAGE_NAME;
-
-public record Moneda() {
+public record Moneda(String codigo, String nombre) {
 }

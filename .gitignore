@@ -28,3 +28,23 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# Archivo con claves privadas
+config.properties
+src/config.properties
+
+# Archivos del IDE (IntelliJ IDEA)
+.idea/
+*.iml
+
+# Archivos de compilación y temporales
+*.class
+*.log
+*.tmp
+
+# Archivos locales de datos
+monedas_disponibles.json
+src/imagenes/
+
+# Sistema operativo
+Thumbs.db
